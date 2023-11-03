@@ -1,0 +1,10 @@
+Algorithme périmètrerectangle 
+variable a,b,p: entiers 
+Début
+	ecrire('enter un la longueur')
+	lire(a)
+	ecrire('entrer la largeur')
+	lire(b)
+	p<-(a+b)*2
+	ecrire('le périmètre de ce rectangle est', p)
+Fin
